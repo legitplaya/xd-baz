@@ -1,0 +1,11 @@
+C:\Users\ip521-20\source\repos\bazdan\bazdan\bin\Debug\BD_Tur_Firm.mdb
+C:\Users\ip521-20\source\repos\bazdan\bazdan\bin\Debug\bazdan.exe.config
+C:\Users\ip521-20\source\repos\bazdan\bazdan\bin\Debug\bazdan.exe
+C:\Users\ip521-20\source\repos\bazdan\bazdan\bin\Debug\bazdan.pdb
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.csprojAssemblyReference.cache
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.Form1.resources
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.exe
+C:\Users\ip521-20\source\repos\bazdan\bazdan\obj\Debug\bazdan.pdb
